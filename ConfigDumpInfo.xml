@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.18">
 	<ConfigVersions>
-		<Metadata name="Configuration.Конфигурация" id="0cac5390-1024-493c-8990-29f73fae3bc2" configVersion="0fcca31347b7114dbea99a59e341e77300000000"/>
-		<Metadata name="Configuration.Конфигурация.HomePageWorkArea" id="2dce5e55-7aa7-4617-8cbe-adf1ca1dee0d.8" configVersion="710c0de101261e4fb705d346accd65e700000000"/>
-		<Metadata name="DataProcessor.Судоку" id="59ecf07b-3d9f-4d73-a53f-453bb12d4f07" configVersion="3a34096a1fcb814b8a3e2ecb05d975b900000000"/>
-		<Metadata name="DataProcessor.Судоку.Form.Форма" id="c58c8b07-59c6-4481-95ba-d35847c7ef70" configVersion="e891f68ad65d50469d41a598063b0fb200000000"/>
-		<Metadata name="DataProcessor.Судоку.Form.Форма.Form" id="c58c8b07-59c6-4481-95ba-d35847c7ef70.0" configVersion="5ea74b41d7ffa54ab639402d031e5f1500000000"/>
-		<Metadata name="Language.Русский" id="99bdae87-4f9c-4804-80ca-3fc2f88043a7" configVersion="424d0d65470d804abc677806fd2113e900000000"/>
+		<Metadata name="Configuration.Конфигурация" id="0cac5390-1024-493c-8990-29f73fae3bc2" configVersion="1c639bc74f89864886bbb6cb7436492000000000"/>
+		<Metadata name="Configuration.Конфигурация.HomePageWorkArea" id="2dce5e55-7aa7-4617-8cbe-adf1ca1dee0d.8" configVersion="300d0adeb05e4948b3b3417f53b8574500000000"/>
+		<Metadata name="DataProcessor.Судоку" id="59ecf07b-3d9f-4d73-a53f-453bb12d4f07" configVersion="9a1d4d366802174fb902f255c9c5d67e00000000"/>
+		<Metadata name="DataProcessor.Судоку.Form.Форма" id="c58c8b07-59c6-4481-95ba-d35847c7ef70" configVersion="c9fd68de71e3754f8a814e42b57d94a300000000"/>
+		<Metadata name="DataProcessor.Судоку.Form.Форма.Form" id="c58c8b07-59c6-4481-95ba-d35847c7ef70.0" configVersion="b91583e43fba104c85b91d04a55ebc0d00000000"/>
+		<Metadata name="Language.Русский" id="99bdae87-4f9c-4804-80ca-3fc2f88043a7" configVersion="1bd9b9d43dfbee439bda7b7bdcfb77d100000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
