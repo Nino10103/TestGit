@@ -1,11 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.18">
 	<ConfigVersions>
-		<Metadata name="Configuration.Конфигурация" id="0cac5390-1024-493c-8990-29f73fae3bc2" configVersion="1c639bc74f89864886bbb6cb7436492000000000"/>
-		<Metadata name="Configuration.Конфигурация.HomePageWorkArea" id="2dce5e55-7aa7-4617-8cbe-adf1ca1dee0d.8" configVersion="300d0adeb05e4948b3b3417f53b8574500000000"/>
-		<Metadata name="DataProcessor.Судоку" id="59ecf07b-3d9f-4d73-a53f-453bb12d4f07" configVersion="9a1d4d366802174fb902f255c9c5d67e00000000"/>
-		<Metadata name="DataProcessor.Судоку.Form.Форма" id="c58c8b07-59c6-4481-95ba-d35847c7ef70" configVersion="c9fd68de71e3754f8a814e42b57d94a300000000"/>
-		<Metadata name="DataProcessor.Судоку.Form.Форма.Form" id="c58c8b07-59c6-4481-95ba-d35847c7ef70.0" configVersion="b91583e43fba104c85b91d04a55ebc0d00000000"/>
-		<Metadata name="Language.Русский" id="99bdae87-4f9c-4804-80ca-3fc2f88043a7" configVersion="1bd9b9d43dfbee439bda7b7bdcfb77d100000000"/>
+		<Metadata name="Configuration.Конфигурация" id="0cac5390-1024-493c-8990-29f73fae3bc2" configVersion="5753b41e0f1ef141840e1e82e8eb841100000000"/>
+		<Metadata name="Configuration.Конфигурация.HomePageWorkArea" id="2dce5e55-7aa7-4617-8cbe-adf1ca1dee0d.8" configVersion="839af8ae62a82142a112cea7a7adfc8700000000"/>
+		<Metadata name="Constant.МаксимальныйУровеньЗаполненностиПоля" id="87a82ca0-a592-4ddd-88f3-685a3b2b3c47" configVersion="ade45066e9e2554c9e9de252ce4ad0fc00000000"/>
+		<Metadata name="Constant.МинимальнаяЗаполненностьПоля" id="28afa775-0512-4725-a86a-1fbce544edb6" configVersion="fe7baa43d31150458fe6aecb6359bd1300000000"/>
+		<Metadata name="DataProcessor.Судоку" id="59ecf07b-3d9f-4d73-a53f-453bb12d4f07" configVersion="b8bc2b2ef6f217439bfa0d0730fcd43e00000000"/>
+		<Metadata name="DataProcessor.Судоку.Form.Форма" id="c58c8b07-59c6-4481-95ba-d35847c7ef70" configVersion="704dc6cb48c6574bb2c5a3760afe736500000000"/>
+		<Metadata name="DataProcessor.Судоку.Form.Форма.Form" id="c58c8b07-59c6-4481-95ba-d35847c7ef70.0" configVersion="4192875e27386f4d9c2d816d8b62ef5200000000"/>
+		<Metadata name="Language.Русский" id="99bdae87-4f9c-4804-80ca-3fc2f88043a7" configVersion="12b5da555b2470449459f5c07d0e48ac00000000"/>
+		<Metadata name="StyleItem.Цифры" id="b9e1ff27-37ee-4fdc-be24-e9e9ed7bd592" configVersion="6aba74940b1ff14d998e284dd604bc6500000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>

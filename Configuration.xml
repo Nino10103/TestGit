@@ -245,6 +245,9 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<StyleItem>Цифры</StyleItem>
+			<Constant>МаксимальныйУровеньЗаполненностиПоля</Constant>
+			<Constant>МинимальнаяЗаполненностьПоля</Constant>
 			<DataProcessor>Судоку</DataProcessor>
 		</ChildObjects>
 	</Configuration>
